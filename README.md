@@ -17,7 +17,7 @@
 </details>
 
 #### 🔎 Study
-* [📝 Java](https://github.com/yuwltn/Java.git)  
+* [Java](https://github.com/yuwltn/Java.git)  
 * Web
 * Server
 * Tool
