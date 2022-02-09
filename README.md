@@ -1,11 +1,11 @@
-### 🧐 Studying 
+### 🕵🏻‍♀️ Studying 
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   
 <br>
   
 <details>
-<summary>🕵🏻‍♀️ 2022 </summary>
+<summary>🧐 2022 </summary>
 <div markdown="1">
 		<ul>
           <li><a href="https://www.notion.so/Floping-a89ecca46ab64ba2b8debd4f8f4c1fd6">Floping 플라워 쇼핑몰 클론 프로젝트</a></li>
