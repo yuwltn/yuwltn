@@ -18,7 +18,7 @@
 
 #### 🔎 Study
 * [Java](https://github.com/yuwltn/Java.git)  
-* Web
+* [Web](https://github.com/yuwltn/Web.git)
 * [Server](https://github.com/yuwltn/Server.git)
 * [Tool](https://github.com/yuwltn/Tool.git)
 * 용어 개념
